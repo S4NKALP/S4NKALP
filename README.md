@@ -1,6 +1,6 @@
 
 ```css
-┌[sankalp☮git]-(~)
+┌[S4NKALP☮git]-(~)
 └> loading
 ```
  
