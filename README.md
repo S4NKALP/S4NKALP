@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://www.facebook.com/Sankalp69" target="_blank">facebook</a> .
+    $  <a href="https://www.facebook.com/S4NKALP" target="_blank">facebook</a> .
     <a href="https://github.com/S4NKALP" target="_blank">github</a> $
   </samp>
 </p>
