@@ -18,7 +18,34 @@
 - I am currently learning nothing focusing on study
  - Currently Reading Computer Engeneering 
 
+<!-- Github Stats -->
 
+<h3 align="center"> Github Stats </h3>
+<!--
+            &nbsp; -> space
+            &emsp; -> 4x(&nbsp;)
+-->
+
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=S4NKALP&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="S4NKALP stats" />
+</p>
+
+<p align="left">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=S4NKALP&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4NKALP&layout=compact&theme=tokyonight" alt="00xWolf top language stats" />
+</p>
+
+
+
+<!--  -->
+<p align="center">
+  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=S4NKALP&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+  
+  
+</p>
+
+<!-- Github Stats -->
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
@@ -69,7 +96,6 @@
  <h1 <p align="center">Contact Me<br /> </h1>
      <p align="center"
         
-        <h2></h2><br>
   <samp>
     $ <a href="https://www.facebook.com/S4NKALP" target="_blank">facebook</a> .
     <a href="https://github.com/S4NKALP" target="_blank">github</a> .
@@ -80,3 +106,4 @@
   </samp>
 </p>
 <h2></h2><br>
+     
