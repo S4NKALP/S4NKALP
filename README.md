@@ -20,7 +20,7 @@
 
 <!-- Github Stats -->
 
-<h3 align="center"> Github Stats </h3>
+<h3 align="center"> &#x1f4c8; Github Stats </h3>
 <!--
             &nbsp; -> space
             &emsp; -> 4x(&nbsp;)
