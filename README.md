@@ -107,3 +107,7 @@
 </p>
 <h2></h2><br>
      
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
