@@ -1,7 +1,7 @@
 
 ```css
 ┌[S4NKALP☮git]-(~)
-└> loading
+└> loading.....
 ```
  <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,  <img src="https://github.com/S4NKALP/S4NKALP/blob/main/Hi.gif" width="30px"></h2>
