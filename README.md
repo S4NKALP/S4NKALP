@@ -63,11 +63,13 @@
 <!--  -->
 ### Now I'm using [Exodia OS Home Edition](https://exodia-os.github.io/exodia-website/). If you are using it you can contact me if you have an issue so I can help you and here's [My Social Media Accounts](#contact-me).
 
-<h2></h2><br>
+
 
 <p align="center">
  <h1 <p align="center">Contact Me<br /> </h1>
      <p align="center"
+        
+        <h2></h2><br>
   <samp>
     $ <a href="https://www.facebook.com/S4NKALP" target="_blank">facebook</a> .
     <a href="https://github.com/S4NKALP" target="_blank">github</a> .
