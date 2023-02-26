@@ -28,7 +28,8 @@
     <a href="https://github.com/S4NKALP" target="_blank">github</a> 
     <a href="https://gitlab.com/S4NKALP" target="blank">gitlab<a/> $
     <a href="https://reddit.com/user/S4NKALP" target="blank">reddit<a/> $
-    <a href="https://github.com/S4NKALP/S4NKALP/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md">gmail<a/> $
+    <a href="https://github.com/S4NKALP/S4NKALP/blob/main/mail.md">gmail<a/> $
+    <a href="https://www.youtube.com/@S4NKALP/videos">youtube<a/> $
   </samp>
 </p>
 
