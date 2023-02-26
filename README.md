@@ -3,10 +3,10 @@
 ┌[S4NKALP☮git]-(~)
 └> loading
 ```
- 
+ <div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,  <img src="https://github.com/S4NKALP/S4NKALP/blob/main/Hi.gif" width="30px"></h2>
 </div>
-
-<h3 align="center">Hi there I'm SANKALP, You can call me Jack <br/> I'm a Linux Enthusiast and open source contributor </h3>
+<h2 align="center"> I'm SANKALP, You can call me Jack <br/> I'm a Linux Enthusiast and open source contributor </h2>
 
 
 
