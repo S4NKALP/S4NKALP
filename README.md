@@ -31,8 +31,8 @@
 </p>
 
 <p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=S4NKALP&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4NKALP&layout=compact&theme=tokyonight" alt="00xWolf top language stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=S4NKALP&count_private=true&include_all_commits=true&theme=tokyonight" alt="J4CK's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4NKALP&layout=compact&theme=tokyonight" alt="S4NKALP top language stats" />
 </p>
 
 
@@ -45,7 +45,13 @@
   
 </p>
 
-<!-- Github Stats -->
+<table align="right">
+    <tr><td> Languages</a></td></tr>
+    <tr><td> Nepali ★★★★★</a></td></tr>
+    <tr><td> Hindi ★★★★★</a></td></tr>
+    <tr><td> English ★★★★☆</a></td></tr>
+</table>
+
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
@@ -107,7 +113,4 @@
 </p>
 <h2></h2><br>
      
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
