@@ -1,22 +1,26 @@
 
 ```css
-┌[S4NKALP☮git]-(~)
-└> loading.....
+┌[o0xjack@git]-(~)
+└> loading........
 ```
- <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,  <img src="https://github.com/S4NKALP/S4NKALP/blob/main/Hi.gif" width="30px"></h2>
-</div>
-<h2 align="center"> I'm SANKALP, You can call me Jack <br/> I'm a Linux Enthusiast and open source contributor </h2>
 
-
+ ```css
+  o0xjack@GitHub
+  -----------------
+  Name: Sankalp Tharu
+  Nickname: jack
+  Education: Currently Reading Computer Engineering
+  College: Tribhuvan Secondary School
+  Intrests: ["CyberSecurity", "Linux", "Programming", "Reverse Engineering"]
+  ```
+ 
 <!--
  - [![Profile%20views](https://komarev.com/ghpvc/?username=S4NKALP&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/S4NKALP) 
 [![gitlab](https://img.shields.io/badge/S4NKALP-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/S4NKALP)
 [![reddit : S4NKALP](https://img.shields.io/reddit/user-karma/combined/S4NKALP?style=FOR-THE-BADGE&color=purple)](https://www.reddit.com/user/S4NKALP) -->
  - [![GitHubFollowers: S4NKALP](https://img.shields.io/github/followers/S4NKALP?style=social)](https://github.com/S4NKALP)
 [![GitHubUserStars: S4NKALP](https://img.shields.io/github/stars/S4NKALP?style=social)](https://github.com/S4NKALP)
-- I am currently learning nothing focusing on study
- - Currently Reading Computer Engeneering 
+
 
 <!-- Github Stats -->
 
