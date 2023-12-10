@@ -1,11 +1,11 @@
 
 ```css
-┌[o0xjack@git]-(~)
+┌[o0xz4ckx@git]-(~)
 └> loading........
 ```
 
  ```css
-  o0xjack@GitHub
+  o0xz4ckx@GitHub
   -----------------
   Name: Sankalp Tharu
   Nickname: jack
