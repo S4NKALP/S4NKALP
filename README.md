@@ -8,7 +8,7 @@
   o0xz4ckx@GitHub
   -----------------
   Name: Sankalp Tharu
-  Nickname: jack
+  Nickname: Z4CKX
   Education: Currently Reading Computer Engineering
   College: Tribhuvan Secondary School
   Intrests: ["CyberSecurity", "Linux", "Programming", "Reverse Engineering"]
