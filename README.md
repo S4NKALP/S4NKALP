@@ -27,17 +27,6 @@
 
 <h2></h2><br>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="https://github.com/S4NKALP">github</a>]
-    [<a href="https://facebook.com/S4NKALP">facebook</a>]
-  
-  </samp>
-</p>
-
-<h2></h2><br>
-
 <!-- Profile Views Badge -->
 <p align="center">
   <samp>
@@ -66,5 +55,15 @@
   </table>
 </div>
 
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="https://github.com/S4NKALP">github</a>]
+    [<a href="https://facebook.com/S4NKALP">facebook</a>]
+  
+  </samp>
+</p>
+
+<h2></h2><br>
 </details>
 </div>
