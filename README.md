@@ -20,10 +20,13 @@
 </p>
 
 ### - Stats ⚡️
-|||
-|:-------------------------:|:-------------------------:|
-| [![S4NKALP's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4NKALP&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/S4NKALP) | [![GitHub Streak](https://streak-stats.demolab.com?user=S4NKALP&theme=catppuccin-mocha)](https://git.io/streak-stats) |
-
+<table style="border:none;margin:0 auto">
+  <tr style="border:none;">
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=S4NKALP&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=S4NKALP%27s%20Github%20Stats" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=S4NKALP&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+  </tr>
+</table>
+<br>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=S4NKALP&label=Profile+Views&color=282A36" alt="S4NKALP" />
