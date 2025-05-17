@@ -32,4 +32,4 @@
   <img src="https://komarev.com/ghpvc/?username=S4NKALP&label=Profile+Views&color=282A36" alt="S4NKALP" />
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=43103163)
+![](https://hit.yhype.me/github/profile?user_id=98226895)
