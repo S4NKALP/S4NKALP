@@ -13,13 +13,6 @@
   ```
 
 
-## 🔍 Activity Overview  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="GitHub Summary" style="border-radius: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="GitHub Stats" style="border-radius: 15px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S4NKALP&theme=react&border=61dafb&hide_border=true&utcOffset=5.75" alt="Productive Time" style="border-radius: 15px;">
-</p>
 
 ### 📊 GitHub Stats
 
@@ -37,7 +30,12 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=S4NKALP&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
 </div>
-<br><br><br><br><br><br><br><br><br>
+<div align=center>
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="GitHub Summary" style="border-radius: 15px;">
+</p>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=S4NKALP&theme=react-dark&bg_color=20232a&hide_border=true" />
