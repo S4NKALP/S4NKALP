@@ -13,6 +13,13 @@
   ```
 
 
+## 🔍 Activity Overview  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="GitHub Summary" style="border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="GitHub Stats" style="border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S4NKALP&theme=react&border=61dafb&hide_border=true&utcOffset=5.75" alt="Productive Time" style="border-radius: 15px;">
+</p>
 
 ### 📊 GitHub Stats
 
