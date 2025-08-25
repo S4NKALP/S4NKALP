@@ -1,10 +1,10 @@
 ```css
-┌[o0xz4ckx@git]-(~)
+┌[iamsankalp@git]-(~)
 └> loading........
 ```
 
  ```css
-  o0xz4ckx@GitHub
+  iamsankalp@GitHub
   ----------------------------------------------------
   Name: Sankalp Tharu
   From: Nepal
