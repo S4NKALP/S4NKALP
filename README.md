@@ -7,7 +7,6 @@
   o0xz4ckx@GitHub
   ----------------------------------------------------
   Name: Sankalp Tharu
-  Nickname: Z4CKX
   From: Nepal
   Intrests: ["CyberSecurity", "Linux", "AI-ML" "Foss"]
   ```
