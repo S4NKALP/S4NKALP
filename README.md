@@ -8,7 +8,7 @@
   ----------------------------------------------------
   Name: Sankalp Tharu
   From: Nepal
-  Intrests: ["CyberSecurity", "Linux", "AI-ML" "Foss"]
+  Intrests: ["Backend", "Linux", "AI-ML" "Foss"]
   ```
 
 
